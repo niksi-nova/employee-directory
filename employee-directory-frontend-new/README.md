@@ -1,0 +1,1 @@
+This frontend uses React + react-router-dom. Run `npm install` then `npm start`. Backend expected at http://localhost:5000/api
